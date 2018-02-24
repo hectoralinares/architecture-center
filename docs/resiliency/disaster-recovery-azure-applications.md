@@ -5,7 +5,7 @@ author: adamglick
 ms.date: 05/26/2017
 ---
 
-# Disaster recovery for Azure Application
+# Disaster recovery for Azure application
 
 Disaster recovery (DR) is focused on recovering from a catastrophic loss of application functionality. For example, if an Azure region hosting your application becomes unavailable, you need a plan for running your application or accessing your data in another region. 
 
