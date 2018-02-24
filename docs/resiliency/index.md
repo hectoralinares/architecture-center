@@ -7,7 +7,7 @@ ms.custom: resiliency
 
 pnp.series.title: Design for Resiliency
 ---
-# Designing resilient applications for Azure
+# Designing resilient Applications for Azure
 
 In a distributed system, failures will happen. Hardware can fail. The network can have transient failures. Rarely, an entire service or region may experience a disruption, but even those must be planned for. 
 
